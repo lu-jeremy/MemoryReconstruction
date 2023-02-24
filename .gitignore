@@ -1,0 +1,3 @@
+venv/
+scripts/*.pkl
+scripts/CVAE-GAN.h5
