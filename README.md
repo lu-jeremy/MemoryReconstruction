@@ -3,8 +3,8 @@ Reconstructing images from memory is crucial for forensic investigations, but cu
 
 ## Description
 * [Documentation (Google Drive)](https://drive.google.com/drive/folders/1YUl0tQ4WxpHvpQn5Cv3MUlfTIv39Z0as?usp=sharing)
- * Research paper
- * Notebook
- * Daily goals
- * Presentation of defense
- * Journal write-ups
+  * Research paper
+  * Notebook
+  * Daily goals
+  * Presentation of defense
+  * Journal write-ups
